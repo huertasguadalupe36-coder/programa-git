@@ -1,2 +1,2 @@
-Nombre: Guadalupe
-Correo: TU_CORREO
+nombre:Guadalupe Huertas
+correo: huertasguadalupe36@gmail.com
